@@ -1,7 +1,8 @@
 # Game_Destroyed
-The code source of my game Destroyed , made for the Indie Park Game Jam 3 : https://wolfy400.itch.io/destroyed
+This Github repository is for hosting the link of the full Godot project of my game Destroyed .
 
-The code source of my game is now public , under the MIT licence .
-This is my philosophy as a indie game dev .
+This game was made for the Indie Park Game Jam 3 , with the theme 'Destruction' . You can find the game at the following link : https://wolfy400.itch.io/destroyed
 
-https://drive.google.com/drive/folders/1xX4-eoGFqexxJ7QEVy2v4AarFPf8KVJf?usp=sharing
+To get access at the zipped project of Destroyed , just click on this Google Drive link : https://drive.google.com/drive/folders/1xX4-eoGFqexxJ7QEVy2v4AarFPf8KVJf?usp=sharing
+
+Enjoy review my code and my organization , that's all I have to say .
